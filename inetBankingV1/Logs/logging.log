@@ -1,0 +1,53 @@
+2020-05-27 23:06:50 INFO  eBanking:15 - URL is opened
+  2020-05-27 23:06:50 INFO  eBanking:19 - Entered the UserName
+  2020-05-27 23:06:51 INFO  eBanking:21 - Entered the Password
+  2020-05-27 23:06:52 INFO  eBanking:23 - Clicked the login button
+  2020-05-27 23:08:56 INFO  eBanking:15 - URL is opened
+  2020-05-27 23:08:56 INFO  eBanking:19 - Entered the UserName
+  2020-05-27 23:08:56 INFO  eBanking:21 - Entered the Password
+  2020-05-27 23:08:59 INFO  eBanking:23 - Clicked the login button
+  2020-05-27 23:09:03 INFO  eBanking:33 - Login test passed
+  2020-05-27 23:56:46 INFO  eBanking:15 - URL is opened
+  2020-05-27 23:59:04 INFO  eBanking:15 - URL is opened
+  2020-05-28 00:02:43 INFO  eBanking:15 - URL is opened
+  2020-05-28 00:04:22 INFO  eBanking:15 - URL is opened
+  2020-05-28 00:09:20 INFO  eBanking:15 - URL is opened
+  2020-05-28 00:10:55 INFO  eBanking:15 - URL is opened
+  2020-05-28 00:15:31 INFO  eBanking:14 - URL is opened
+  2020-05-28 00:16:37 INFO  eBanking:14 - URL is opened
+  2020-05-28 00:16:37 INFO  eBanking:18 - Entered the UserName
+  2020-05-28 00:16:38 INFO  eBanking:20 - Entered the Password
+  2020-05-28 00:16:39 INFO  eBanking:22 - Clicked the login button
+  2020-05-28 00:16:42 INFO  eBanking:32 - Login test passed
+  2020-06-01 22:59:00 INFO  eBanking:14 - URL is opened
+  2020-06-01 22:59:01 INFO  eBanking:18 - Entered the UserName
+  2020-06-01 22:59:01 INFO  eBanking:20 - Entered the Password
+  2020-06-01 22:59:02 INFO  eBanking:22 - Clicked the login button
+  2020-06-01 22:59:07 INFO  eBanking:32 - Login test passed
+  2020-06-01 23:54:30 INFO  eBanking:13 - URL is opened
+  2020-06-01 23:54:30 INFO  eBanking:17 - Entered the UserName
+  2020-06-01 23:54:30 INFO  eBanking:19 - Entered the Password
+  2020-06-01 23:54:32 INFO  eBanking:21 - Clicked the login button
+  2020-06-01 23:54:36 INFO  eBanking:31 - Login test passed
+  2020-06-02 00:00:36 INFO  eBanking:13 - URL is opened
+  2020-06-02 00:03:50 INFO  eBanking:13 - URL is opened
+  2020-06-02 00:03:50 INFO  eBanking:17 - Entered the UserName
+  2020-06-02 00:03:50 INFO  eBanking:19 - Entered the Password
+  2020-06-02 00:03:54 INFO  eBanking:21 - Clicked the login button
+  2020-06-02 00:03:57 INFO  eBanking:31 - Login test passed
+  2020-06-02 00:04:32 INFO  eBanking:13 - URL is opened
+  2020-06-02 00:04:32 INFO  eBanking:17 - Entered the UserName
+  2020-06-02 00:04:32 INFO  eBanking:19 - Entered the Password
+  2020-06-02 00:04:34 INFO  eBanking:21 - Clicked the login button
+  2020-06-02 00:04:37 INFO  eBanking:31 - Login test passed
+  2020-06-03 23:56:07 INFO  eBanking:13 - URL is opened
+  2020-06-03 23:56:07 INFO  eBanking:17 - Entered the UserName
+  2020-06-03 23:56:07 INFO  eBanking:19 - Entered the Password
+  2020-06-03 23:56:09 INFO  eBanking:21 - Clicked the login button
+  2020-06-03 23:56:13 INFO  eBanking:31 - Login test passed
+  2020-06-04 00:02:06 INFO  eBanking:13 - URL is opened
+  2020-06-04 00:02:07 INFO  eBanking:17 - Entered the UserName
+  2020-06-04 00:02:07 INFO  eBanking:19 - Entered the Password
+  2020-06-04 00:02:08 INFO  eBanking:21 - Clicked the login button
+  2020-06-04 00:02:13 INFO  eBanking:31 - Login test passed
+  
